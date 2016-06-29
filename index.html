@@ -1,1 +1,8 @@
-<h1>Hello World</h1>
+<div id="react-root">
+	<h1>Hello World</h1>
+</div>
+<script>
+	require('babel-register');
+	const app = require('./app.js')
+	app.render(document.getElementById('react-root'))
+</script>
