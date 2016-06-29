@@ -4,6 +4,7 @@
   "description": "A not quite spreadsheet",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "tap test"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aredridel/recto/issues"
   },
-  "homepage": "https://github.com/aredridel/recto#readme"
+  "homepage": "https://github.com/aredridel/recto#readme",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.5"
+  }
 }
