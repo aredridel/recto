@@ -1,0 +1,22 @@
+{
+  "name": "recto",
+  "version": "1.0.0",
+  "description": "A not quite spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/recto.git"
+  },
+  "keywords": [
+    "spreadsheet"
+  ],
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/recto/issues"
+  },
+  "homepage": "https://github.com/aredridel/recto#readme"
+}
