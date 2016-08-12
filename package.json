@@ -36,7 +36,7 @@
     "babel-preset-es2020": "^1.0.2",
     "babel-register": "^6.9.0",
     "electron-prebuilt": "^1.2.5",
-    "react": "^15.1.0",
+    "react": "^15.3.0",
     "react-dom": "^15.1.0"
   }
 }
